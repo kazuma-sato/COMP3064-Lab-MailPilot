@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: bb9dc47c771cd4e91b394e4384b1c3ea
-timeCreated: 1474556667
+guid: a34460b8648af4e07bab8b4c4c87fe03
+timeCreated: 1474556753
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -62,14 +62,11 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    serializedVersion: 2
     sprites:
-    - serializedVersion: 2
-      name: exp2_0
+    - name: exp2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -79,10 +76,23 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_1
+      outline:
+      - - {x: 28, y: 16}
+        - {x: 32, y: 18}
+        - {x: 32, y: 25}
+        - {x: 27, y: 32}
+        - {x: -4, y: 32}
+        - {x: -25, y: 28}
+        - {x: -30, y: 20}
+        - {x: -30, y: -2}
+        - {x: -27, y: -21}
+        - {x: -13, y: -28}
+        - {x: -2, y: -28}
+        - {x: 13, y: -25}
+        - {x: 32, y: 3}
+        - {x: 32, y: 15}
+        - {x: 31, y: 16}
+    - name: exp2_1
       rect:
         serializedVersion: 2
         x: 64
@@ -92,10 +102,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_2
+      outline:
+      - - {x: -28, y: 32}
+        - {x: -32, y: 23}
+        - {x: -32, y: -20}
+        - {x: -26, y: -30}
+        - {x: -2, y: -30}
+        - {x: 26, y: -25}
+        - {x: 32, y: 2}
+        - {x: 32, y: 31}
+        - {x: 31, y: 32}
+    - name: exp2_2
       rect:
         serializedVersion: 2
         x: 128
@@ -105,10 +122,16 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_3
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -20}
+        - {x: -27, y: -31}
+        - {x: 14, y: -31}
+        - {x: 23, y: -26}
+        - {x: 32, y: 5}
+        - {x: 32, y: 32}
+    - name: exp2_3
       rect:
         serializedVersion: 2
         x: 192
@@ -118,10 +141,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_4
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 26, y: -32}
+        - {x: 32, y: 1}
+        - {x: 32, y: 32}
+    - name: exp2_4
       rect:
         serializedVersion: 2
         x: 0
@@ -131,10 +157,15 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_5
+      outline:
+      - - {x: -10, y: 32}
+        - {x: -32, y: 27}
+        - {x: -32, y: -24}
+        - {x: -13, y: -32}
+        - {x: 22, y: -32}
+        - {x: 32, y: 2}
+        - {x: 32, y: 32}
+    - name: exp2_5
       rect:
         serializedVersion: 2
         x: 64
@@ -144,10 +175,16 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_6
+      outline:
+      - - {x: -26, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: -21}
+        - {x: -22, y: -31}
+        - {x: 8, y: -31}
+        - {x: 24, y: -28}
+        - {x: 32, y: 13}
+        - {x: 32, y: 32}
+    - name: exp2_6
       rect:
         serializedVersion: 2
         x: 128
@@ -157,10 +194,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_7
+      outline:
+      - - {x: -17, y: 31}
+        - {x: -32, y: 22}
+        - {x: -32, y: -13}
+        - {x: -29, y: -19}
+        - {x: -26, y: -26}
+        - {x: -19, y: -30}
+        - {x: 14, y: -30}
+        - {x: 17, y: -28}
+        - {x: 32, y: 8}
+        - {x: 32, y: 31}
+    - name: exp2_7
       rect:
         serializedVersion: 2
         x: 192
@@ -170,10 +215,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_8
+      outline:
+      - - {x: -1, y: 30}
+        - {x: -28, y: 24}
+        - {x: -32, y: 21}
+        - {x: -32, y: -27}
+        - {x: -22, y: -30}
+        - {x: -2, y: -30}
+        - {x: 17, y: -21}
+        - {x: 28, y: 3}
+        - {x: 28, y: 21}
+        - {x: 21, y: 30}
+      - - {x: 26, y: 28}
+        - {x: 24, y: 26}
+        - {x: 24, y: 23}
+        - {x: 27, y: 20}
+        - {x: 30, y: 20}
+        - {x: 32, y: 22}
+        - {x: 32, y: 26}
+        - {x: 30, y: 28}
+    - name: exp2_8
       rect:
         serializedVersion: 2
         x: 0
@@ -183,10 +244,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_9
+      outline:
+      - - {x: -19, y: 25}
+        - {x: -32, y: 22}
+        - {x: -32, y: -7}
+        - {x: -30, y: -13}
+        - {x: -25, y: -16}
+        - {x: -13, y: -29}
+        - {x: 14, y: -29}
+        - {x: 26, y: -8}
+        - {x: 26, y: 25}
+    - name: exp2_9
       rect:
         serializedVersion: 2
         x: 64
@@ -196,10 +264,17 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_10
+      outline:
+      - - {x: -30, y: -13}
+        - {x: -16, y: -28}
+        - {x: -1, y: -28}
+        - {x: 25, y: -15}
+        - {x: 25, y: 21}
+        - {x: 24, y: 25}
+        - {x: -10, y: 25}
+        - {x: -31, y: 19}
+        - {x: -31, y: -8}
+    - name: exp2_10
       rect:
         serializedVersion: 2
         x: 128
@@ -209,10 +284,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_11
+      outline:
+      - - {x: 0, y: 23}
+        - {x: -13, y: 22}
+        - {x: -29, y: 17}
+        - {x: -29, y: -19}
+        - {x: -14, y: -27}
+        - {x: 23, y: -27}
+        - {x: 23, y: 23}
+      - - {x: -30, y: 18}
+        - {x: -30, y: 11}
+        - {x: -23, y: 11}
+        - {x: -23, y: 18}
+    - name: exp2_11
       rect:
         serializedVersion: 2
         x: 192
@@ -222,10 +306,15 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_12
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -27, y: 11}
+        - {x: -27, y: -17}
+        - {x: -21, y: -26}
+        - {x: 7, y: -26}
+        - {x: 22, y: -17}
+        - {x: 22, y: 22}
+    - name: exp2_12
       rect:
         serializedVersion: 2
         x: 0
@@ -235,10 +324,23 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_13
+      outline:
+      - - {x: 7, y: 3}
+        - {x: 4, y: 3}
+        - {x: 12, y: 3}
+        - {x: 15, y: 5}
+        - {x: 21, y: 13}
+        - {x: 21, y: 22}
+        - {x: -5, y: 22}
+        - {x: -23, y: 18}
+        - {x: -23, y: -21}
+        - {x: -20, y: -25}
+        - {x: 6, y: -25}
+        - {x: 16, y: -19}
+        - {x: 17, y: 0}
+        - {x: 15, y: 2}
+        - {x: 12, y: 2}
+    - name: exp2_13
       rect:
         serializedVersion: 2
         x: 64
@@ -248,10 +350,23 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_14
+      outline:
+      - - {x: -11, y: -16}
+        - {x: -8, y: -19}
+        - {x: 13, y: -19}
+        - {x: 16, y: -14}
+        - {x: 16, y: 21}
+        - {x: -1, y: 21}
+        - {x: -11, y: 8}
+      - - {x: -22, y: 7}
+        - {x: -22, y: -2}
+        - {x: -20, y: -3}
+        - {x: -17, y: -4}
+        - {x: -14, y: -4}
+        - {x: -11, y: -2}
+        - {x: -10, y: 5}
+        - {x: -12, y: 7}
+    - name: exp2_14
       rect:
         serializedVersion: 2
         x: 128
@@ -261,10 +376,40 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: exp2_15
+      outline:
+      - - {x: -8, y: -4}
+        - {x: -10, y: -6}
+        - {x: -10, y: -9}
+        - {x: -8, y: -11}
+        - {x: -5, y: -11}
+        - {x: -3, y: -9}
+        - {x: -3, y: -6}
+        - {x: -5, y: -4}
+      - - {x: 6, y: -1}
+        - {x: 3, y: -4}
+        - {x: 3, y: -8}
+        - {x: 5, y: -10}
+        - {x: 10, y: -10}
+        - {x: 12, y: -8}
+        - {x: 12, y: -4}
+        - {x: 9, y: -1}
+      - - {x: -8, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: 2}
+        - {x: -6, y: -1}
+        - {x: -2, y: -1}
+        - {x: 2, y: 0}
+        - {x: 2, y: 9}
+        - {x: 1, y: 12}
+      - - {x: 3, y: 15}
+        - {x: 2, y: 13}
+        - {x: 2, y: 8}
+        - {x: 5, y: 6}
+        - {x: 13, y: 6}
+        - {x: 15, y: 7}
+        - {x: 15, y: 13}
+        - {x: 14, y: 15}
+    - name: exp2_15
       rect:
         serializedVersion: 2
         x: 192
@@ -274,8 +419,23 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -9, y: 9}
+        - {x: -9, y: 4}
+        - {x: -6, y: 0}
+        - {x: -2, y: 0}
+        - {x: 1, y: 3}
+        - {x: 1, y: 8}
+        - {x: 0, y: 10}
+      - - {x: 10, y: 14}
+        - {x: 8, y: 12}
+        - {x: 8, y: 9}
+        - {x: 10, y: 7}
+        - {x: 13, y: 7}
+        - {x: 15, y: 9}
+        - {x: 15, y: 12}
+        - {x: 13, y: 14}
     outline: []
   spritePackingTag: 
   userData: 

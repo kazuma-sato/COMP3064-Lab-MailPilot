@@ -16,7 +16,7 @@ public class OceanController : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	void Update () {
 		_currentPosition = _transform.position;
 
 		_currentPosition -= new Vector2 (0, speed);

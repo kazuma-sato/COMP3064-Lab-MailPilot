@@ -20,7 +20,7 @@ public class ShipController : MonoBehaviour {
 	}
 
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
 		_currentPosition = _transform.position;
 		Vector2 currSpeed = new Vector2 (speed.x * direction, speed.y);
 		_currentPosition -= currSpeed;

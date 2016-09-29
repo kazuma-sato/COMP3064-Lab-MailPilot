@@ -46,11 +46,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ExplosionController.cs" />
-     <Compile Include="Assets\Scripts\ExplosionController_fail.cs" />
+     <Compile Include="Assets\Scripts\HUDController.cs" />
      <Compile Include="Assets\Scripts\IslandController.cs" />
      <Compile Include="Assets\Scripts\OceanController.cs" />
      <Compile Include="Assets\Scripts\PlaneCollider.cs" />
      <Compile Include="Assets\Scripts\PlaneController.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\ShipController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
